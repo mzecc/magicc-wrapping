@@ -1,0 +1,17 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v0.14.3
+_src_path: gl:openscm/copier-core-python-repository
+conda_release: false
+email: zecchetto@iiasa.ac.at
+include_cli: false
+name: Marco Zecchetto
+notebook_based_docs: false
+package_manager: uv
+pandas_doctests: false
+plot_dependencies: false
+project_description_short: MAGICC FORTRAN Python wrapper
+project_name_human: Magicc Wrapping
+project_name_pip: magicc-wrapping
+project_name_python: magicc_wrapping
+project_url: https://github.com/mzecc/magicc-wrapping.git
+track_lock_file: true
